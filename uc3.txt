@@ -1,0 +1,2 @@
+Add part time employee & wage
+-assume part time hours is 8
