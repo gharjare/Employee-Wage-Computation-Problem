@@ -1,0 +1,3 @@
+store the daily wage 
+along with the total
+wage
