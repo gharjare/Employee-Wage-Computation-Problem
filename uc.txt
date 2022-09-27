@@ -1,0 +1,3 @@
+Check Employee is Present or Absent
+ -use((RANDOM))for Attendance
+  check
