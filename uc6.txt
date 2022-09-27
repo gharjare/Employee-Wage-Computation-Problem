@@ -1,0 +1,6 @@
+calculate wages till 
+a condition of total
+working hours or days
+is reached for a month
+
+-assume 100 hours and 20 days
