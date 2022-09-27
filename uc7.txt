@@ -1,0 +1,3 @@
+refactor the code
+to write a function 
+to get work hours
