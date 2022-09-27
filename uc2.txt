@@ -1,0 +1,3 @@
+calculate daily employee wage
+-assume wage per hour is 20
+-assume full day hour is 8
